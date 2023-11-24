@@ -31,7 +31,7 @@ Chegamos até o responsável do instituto tea pois de pronto identificamos algun
 ## Descrição do projeto 
 
  
- <p> O site tenta apresentar de forma clara e intuitiva todos os serviços desenvolvidos e prestados na instituição. Apresenta um “cartão de visita” que chama a atenção para quem está atrás de realizar uma boa ação, doar ou fazer parte. O site foi feito e direcionado para pessoas de todas as faixa etárias que estejam dispostas a participar ou ajudar de qualquer forma, disponibilizando informações como contato para pacientes, doadores ou colaboradores, para que de forma simples e dinâmica consigam chegar até o instituto. O instituto que estamos realizando o site é uma sede que está em Aracaju - Sergipe.
+ <p> O site tenta apresentar de forma clara e intuitiva todos os serviços desenvolvidos e prestados na instituição. Apresenta um “cartão de visita” que chama a atenção para quem está atrás de realizar uma boa ação, doar ou fazer parte. O site foi feito e direcionado para pessoas de todas as faixa etárias que estejam dispostas a participar ou ajudar de qualquer forma, disponibilizando informações como contato para pacientes, doadores ou colaboradores, para que de forma simples e dinâmica consigam chegar até o instituto. O instituto que estamos realizando o site é uma sede que está em Aracaju - Sergipe. 
 </p>
 
 ## Requisitos Funcionais
@@ -79,7 +79,7 @@ O stick holder atrasou no envio de informações básicas para o desenvolvimento
 
 Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
 
-:memo: Tarefa 1 
+:memo: Adicionar ao site um sistema de IA que seja capaz de esclarecer duvidas ou dificuldades que o usuário tenha durante a navegação.
 
 :memo: Tarefa 2 
 
