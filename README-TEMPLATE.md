@@ -77,7 +77,6 @@ O stick holder atrasou no envio de informações básicas para o desenvolvimento
 
 ## Tarefas em aberto
 
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
 
 :memo: Ainda gostariamos de agregar ao site funcionalidades como login, para que os pacientes ou colaboradores consigam acompanhar o andamento de solicitações, consultas, retornos.
 
