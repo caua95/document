@@ -79,11 +79,13 @@ O stick holder atrasou no envio de informações básicas para o desenvolvimento
 
 Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
 
-:memo: Tarefa 1 
+:memo: Ainda gostariamos de agregar ao site funcionalidades como login, para que os pacientes ou colaboradores consigam acompanhar o andamento de solicitações, consultas, retornos.
 
-:memo: Tarefa 2 
+:memo: Adicionar Ebooks do instituto.
 
-:memo: Tarefa 3 
+:memo: Acrescentar um mural com, notícias, eventos, avisos ou qualquer outro tipo de atividade que a instituição promova.
+
+:memo: Adicionar ao site um sistema de IA que seja capaz de esclarecer duvidas ou dificuldades que o usuário tenha durante a navegação.
 
 ## Desenvolvedores/Contribuintes :octocat:
 
